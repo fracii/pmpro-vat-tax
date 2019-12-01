@@ -153,7 +153,7 @@ msgid "I have a VAT number"
 msgstr "Disposo d’un número d’IVA intercomunitari"
 
 #: pmpro-vat-tax.php:250
-msgid "Vat Number"
+msgid "Vat Number (Without country letters. Ex: 554433111101)"
 msgstr "Número d’IVA"
 
 #: pmpro-vat-tax.php:252
