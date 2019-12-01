@@ -166,7 +166,7 @@ function pmprovat_enqueue_scripts() {
 				'timeout' => apply_filters("pmpro_ajax_timeout", 5000, 'applydiscountcode'),
 				'seller_country' => get_option('pmprovt_seller_country'),
 				'verified_text' => __('VAT number was verifed', 'pmprovat'),
-				'not_verified_text' => __('VAT number was not verifed. Please try again.', 'pmprovat'),				
+				'not_verified_text' => __('VAT number was not verifed. Check so you not included country letters." Please try again.', 'pmprovat'),				
 			)
 		);
 		//enqueue
